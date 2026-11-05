@@ -21,6 +21,7 @@
 🐧 Середовище	Linux, EndeavourOS
 🛠 Інструменти	Git, CMake, Neovim, clangd
 🎯 Напрямки	OOP, AST, парсери, системне програмування
+
 💻 Вміння і стек
 
 <a href="https://skillicons.dev">
